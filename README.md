@@ -367,3 +367,4 @@ Website: [awesome-superpeer.vercel.app](https://awesome-superpeer.vercel.app/)
 * [Ferhat Fırat](https://superpeer.com/ff) - Website Uzmanı
 * [Görkem Yıldız](https://superpeer.com/gorkemyildiz) - UI/UX Designer
 * [Melih Safa Çelik](https://superpeer.com/melihsafacelik) - Software Developer
+* Selcuk Ergin (https://superpeer.com/selcuke) - Advisor for Startups and Tech Companies
